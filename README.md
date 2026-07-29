@@ -26,7 +26,5 @@ The following resource packs are included or referenced by the Lavendre Modpack.
 | [Hananacraft CIT](https://www.planetminecraft.com/texture-pack/hananacraft-v1-0/) | HanaTheBanana | Custom License | 📦 | Included for Lavendre development and distribution |
 | [Erstwhile CIT](https://www.planetminecraft.com/texture-pack/erstwhile-cit/) | Kaomc | Custom License | 📦 | Included for Lavendre development and distribution |
 
----
-
 > [!NOTE]
 > Resource pack creators are welcome to submit their work for inclusion in the **Lavendre Modpack** by opening a **Feature Request** in the main Lavendre [repository](https://github.com/aerhazu/Lavendre). If accepted and redistribution is permitted, the pack will be included and properly credited here. If any information is incorrect or you would like your work removed, please open an issue [here](https://github.com/aerhazu/CIT-Repository/issues).
